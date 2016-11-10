@@ -64,3 +64,13 @@ console.log('How much stuff can a variable hold?', strength);
 
 --------------------------------------------------------------------------------------------
 
+Exercise 8
+
+var age = 18;
+console.log(age);
+
+var hasPet = true;
+console.log(hasPet);
+
+-------------------------------------------------------------------------------------------
+
