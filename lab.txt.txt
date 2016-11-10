@@ -56,3 +56,11 @@ console.log('If it didn\'t become jaundice and went away they could discharge hi
 console.log('But this just being short of jaundice all the time confused them.');
 
 --------------------------------------------------------------------------------------------
+
+Exercise 7
+
+var strength = '50,000 pounds';
+console.log('How much stuff can a variable hold?', strength);
+
+--------------------------------------------------------------------------------------------
+
