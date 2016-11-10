@@ -83,3 +83,10 @@ console.log('Morning alarm is set to: ',morningAlarm);
 
 ------------------------------------------------------------------------------------------
 
+Exercise 10
+
+var favoriteAnimal = 'dog';
+console.log('My favorite animal: '+favoriteAnimal);
+
+-----------------------------------------------------------------------------------------
+
